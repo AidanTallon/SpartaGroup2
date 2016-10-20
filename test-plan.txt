@@ -1,0 +1,63 @@
+Group 2
+
+Introduction
+
+
+
+
+
+Scope
+
+
+
+
+Test items
+
+
+
+Registration and Login
+
+
+
+
+
+
+
+Post videos
+
+
+
+
+
+
+-> Liking videos
+
+
+
+
+
+
+
+View profiles
+
+
+
+
+
+
+
+Search through videos
+
+
+
+
+
+Display feed in newest first order
+
+
+
+UX
+
+
+
+
